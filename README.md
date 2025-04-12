@@ -1,3 +1,3 @@
-The code is an example of a simple attendance chatbot that will record each attendance data when the user sends a message in the form of a photo with the description 'Present', 'Permission', or 'Field'. The bot will save data such as attendance time, date, and username. The platform used is Telegram.
+This project demonstrates a simple Telegram chatbot designed to record attendance data whenever a user sends a photo with specific descriptions such as 'Present', 'Permission', or 'Field'. The bot captures key information, including the username, attendance time, and date, ensuring an easy and efficient way to track attendance. The platform used for building the bot is Telegram, and the Bot Token can be obtained through the BotFather on Telegram to activate the bot. This chatbot serves as a practical tool for automating attendance tracking in various scenarios.
 
 The Bot Token can be obtained from the BotFather on Telegram.
